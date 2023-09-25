@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kapi lodhi
-- 👀 I’m interested in 
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java project
+- 👋 Hi, I’m Kapil lodhi
+- 👀 I’m interested in technology and pasinates me Technolocy 
+- 🌱 Presently I'm learning java
+- 💞️ I’have very good knowledge about frontend development like Html , CSS and javascript 
 - 📫 How to reach me this is my mail lodhikapil557@gmail.com
 
 <!---
